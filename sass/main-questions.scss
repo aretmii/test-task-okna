@@ -1,0 +1,50 @@
+.main-questions {
+  padding: 15px 25px;
+  background-color: #ffffff;
+  border-radius: 4px;
+  margin-bottom:  25px;
+}
+
+.main-questions h2 {
+  font-size: 26px;
+  font-family: $font-stack;
+  font-weight: normal;
+  color: #484848;
+}
+
+.main-questions p {
+  font-size: 14px;
+  font-family: $font-stack;
+  font-weight: normal;
+  color: #484848;
+  margin-bottom: 20px;
+}
+
+.main-questions p > img {
+  float: left;
+  margin-right: 35px;
+}
+
+.main-questions p:last-of-type > img {
+  float: left;
+  margin-right: 40px;
+}
+
+.main-questions__numbers {
+  border: 2px #383838 solid;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #383838;
+  font-size: 20px;
+  font-family: $font-stack;
+  font-weight: bold;
+  float: left;
+}
+
+.main-questions__p {
+  margin-left: 50px;
+}

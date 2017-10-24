@@ -12,3 +12,34 @@
     margin: 0 0 20px 25px;
     padding-top: 15px;
 }
+
+.main-header__wrapper{
+    display: flex;
+    align-items: flex-end;
+}
+
+.main-header__cost{
+    margin: 20px 50px;
+    font-size: 23px;
+}
+
+.main-header__cost a{
+    color: #f36240;
+}
+
+.main-header__contacts{
+    margin: 20px 25px;
+}
+
+.main-header__workTime{
+    font-size: 16px;
+    color: #484745;
+    text-align: right;
+    transform: translateY(15px);
+}
+
+.main-header__phone{
+    text-decoration: none;
+    color: #484745;
+    font-size: 31px;
+}
